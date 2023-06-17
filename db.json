@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Apple Watch Ultra GPS ihihi",
+      "price": "8001",
+      "image": "https://picsum.photos/150/100",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Apple Watch Ultra GPS",
+      "price": 800,
+      "image": "https://picsum.photos/150/100"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Ultra GPS",
+      "price": 800,
+      "image": "https://picsum.photos/150/100"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "123456"
+    }
+  ]
+}
